@@ -14,7 +14,9 @@ function App() {
   const empty = cart.length === 0;
 
   const fetchData = async () => {
-    const response = await axios.get("http://localhost:3200/");
+    const response = await axios.get(
+      "https://deliveroo-michaels.herokuapp.com/"
+    );
     setData(response.data);
     setIsLoading(false);
   };
