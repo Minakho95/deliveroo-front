@@ -6,6 +6,6 @@ Shopping Cart clone of the online food delivery website made at Le Reacteur's bo
 <h2><strong>📚 Stacks 📚</strong></h2>
 Javascript - React - HTML5 - CSS3 - Netlify
 
-link : <https://marvel-michaels.netlify.app>
+link : <https://deliveroo-michaels.netlify.app/>
 
 </center>
